@@ -1,0 +1,20 @@
+{
+  "name": "ひとことふたこと",
+  "short_name": "ひとことふたこと",
+  "description": "ひとひ、ひとこと。つながる、つきひ。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f2faf4",
+  "theme_color": "#5cb87a",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

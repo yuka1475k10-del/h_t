@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#5cb87a"/>
+  <!-- leaf shape -->
+  <ellipse cx="256" cy="220" rx="110" ry="140" fill="#ffffff" opacity="0.22" transform="rotate(-20 256 220)"/>
+  <ellipse cx="256" cy="240" rx="90" ry="120" fill="#ffffff" opacity="0.18" transform="rotate(20 256 240)"/>
+  <!-- stem -->
+  <line x1="256" y1="370" x2="256" y2="430" stroke="#ffffff" stroke-width="14" stroke-linecap="round" opacity="0.7"/>
+  <!-- leaf outline -->
+  <path d="M256,100 C310,130 360,180 340,270 C320,340 260,370 256,370 C252,370 192,340 172,270 C152,180 202,130 256,100 Z"
+        fill="none" stroke="#ffffff" stroke-width="10" opacity="0.5"/>
+  <!-- center vein -->
+  <line x1="256" y1="120" x2="256" y2="370" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.4"/>
+</svg>
